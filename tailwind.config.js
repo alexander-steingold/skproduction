@@ -14,7 +14,12 @@ const colors = require('tailwindcss/colors')
 const plugin = require('tailwindcss/plugin')
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-    content: ["./resources/theme/src/**/*.{html,js}", "./node_modules/tw-elements/dist/js/**/*.js"],
+    content: [
+        "./resources/**/*.blade.php",
+        "./resources/**/*.js",
+        "./resources/**/*.vue",
+        "./resources/theme/src/**/*.{html,js}", "./node_modules/tw-elements/dist/js/**/*.js"
+    ],
     darkMode: 'class',
     important: true,
     theme: {

@@ -15,7 +15,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-
 Route::controller(SiteController::class)->group(function () {
     Route::get('/', 'index')->name('index');
+    Route::get('/green-screen', 'green')->name('green-screen');
+    Route::get('/white-screen', 'white')->name('white-screen');
+    Route::get('/virtual-studio', 'studio')->name('virtual-studio');
+    Route::get('/music-video', 'music')->name('music-video');
+    Route::get('/online-course', 'course')->name('online-course');
+    Route::get('/equipment', 'equipment')->name('equipment');
 });

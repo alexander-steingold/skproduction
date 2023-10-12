@@ -32,7 +32,8 @@
 
                 <div class="flex-1 ms-6">
                     <h5 class="text-lg dark:text-white mb-1 font-medium">טלפון</h5>
-                    <a href="tel:0501234567" class="text-slate-400">0501234567</a>
+                    <a href="tel:{{ config('app.contact_phone') }}"
+                       class="text-slate-400">{{ config('app.contact_phone') }}</a>
                 </div>
             </div>
 
@@ -43,7 +44,8 @@
 
                 <div class="flex-1 ms-6">
                     <h5 class="text-lg dark:text-white mb-1 font-medium">אימייל</h5>
-                    <a href="mailto:contact@example.com" class="text-slate-400">skproductionisrael@gmail.com</a>
+                    <a href="mailto:skproductionisrael@gmail.com"
+                       class="text-slate-400">skproductionisrael@gmail.com</a>
                 </div>
             </div>
 

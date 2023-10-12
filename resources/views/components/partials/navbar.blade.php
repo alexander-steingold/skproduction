@@ -36,8 +36,8 @@
                     </li>
                     <li class="nav-item">
                         <div class="flex nav-link -8">
-                            <a class="font-medium text-lg  mx-1" href="tel:0501234567">
-                                050123456
+                            <a class="font-medium text-lg  mx-1" href="tel:{{ config('app.contact_phone') }}">
+                                {{ config('app.contact_phone') }}
                             </a>
                             <i class="uil uil-phone text-lg text-green-600 me-1"></i>
                         </div>

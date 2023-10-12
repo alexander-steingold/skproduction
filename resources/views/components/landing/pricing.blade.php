@@ -23,7 +23,7 @@
                 וידאו,
                 קליפים מוזיקליים וצילומי חוץ - יש
                 לפנות אלינו טלפונית:
-                0501234567
+                {{ config('app.contact_phone') }}
             </div>
             <div class="w-full md:w-1/2 lg:w-1/3 px-0 md:px-3 mt-8">
                 <div

@@ -7,7 +7,7 @@
     <meta name="description" content="אולפן מסך ירוק - מסך לבן - מסך שחור בדרום - באר שבע">
     <meta name="version" content="2.0.0">
     <!-- favicon -->
-    <link href="{{ asset('theme/src/assets/images/favicon.ico') }}" rel="shortcut icon">
+    <link href="{{ asset('theme/src/assets/images/camera.png') }}" rel="shortcut icon">
     <!-- Css -->
     <link href="{{ asset('theme/src/assets/libs/tobii/css/tobii.min.css')}}" rel="stylesheet">
     <link href="{{ asset('theme/src/assets/libs/tiny-slider/tiny-slider.css')}}" rel="stylesheet">

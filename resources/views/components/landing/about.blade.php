@@ -14,12 +14,12 @@
                 <div class="relative">
                     <img src="{{ asset('theme/src/assets/images/studio.jpg') }}" class="rounded-lg shadow-lg relative"
                          alt="">
-                    <div class="absolute bottom-2/4 translate-y-2/4 start-0 end-0 text-center">
-                        <a href="#!" data-type="youtube" data-id="S_CGed6E610"
-                           class="lightbox h-20 w-20 rounded-full shadow-lg shadow-slate-100 dark:shadow-slate-800 inline-flex items-center justify-center bg-white dark:bg-slate-900 text-orange-600">
-                            <i class="mdi mdi-play inline-flex items-center justify-center text-2xl"></i>
-                        </a>
-                    </div>
+                    {{--                    <div class="absolute bottom-2/4 translate-y-2/4 start-0 end-0 text-center">--}}
+                    {{--                        <a href="#!" data-type="youtube" data-id="S_CGed6E610"--}}
+                    {{--                           class="lightbox h-20 w-20 rounded-full shadow-lg shadow-slate-100 dark:shadow-slate-800 inline-flex items-center justify-center bg-white dark:bg-slate-900 text-orange-600">--}}
+                    {{--                            <i class="mdi mdi-play inline-flex items-center justify-center text-2xl"></i>--}}
+                    {{--                        </a>--}}
+                    {{--                    </div>--}}
                 </div>
             </div><!--end col-->
 

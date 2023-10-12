@@ -45,10 +45,7 @@
 
                         <p class="mb-6 text-slate-430 dark:text-slate-300 text-center">
                             עד 2 שעות בלבד</p>
-                        <a href=""
-                           class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md w-full">
-                            הזמן עכשיו או קבל פרטים נוספים
-                        </a>
+                        <x-partials.order_btn/>
                     </div>
                     <div class="border-b border-slate-200 dark:border-slate-700"></div>
                     <h3 class="mb-2 mt-4 px-8 text-xl md:text-xl  font-medium dark:text-white">
@@ -132,21 +129,18 @@
                         </h3>
                         <div class="flex justify-center mb-6 items-end ">
                             <div class=" dark:text-white/70 ">
-                                <span class="text-5xl font-semibold dark:text-white ">550</span>
+                                <span class="text-5xl font-semibold dark:text-white ">650</span>
                                 <span class="relative text-3xl">₪</span>
                             </div>
                             <div class=" dark:text-white/70 mx-3">
-                                <span class="text-2xl font-medium dark:text-red-500 line-through">950</span>
+                                <span class="text-2xl font-medium dark:text-red-500 line-through">1050</span>
                                 <span class="relative  text-xl">₪</span>
                             </div>
                         </div>
 
                         <p class="mb-6 text-slate-430 dark:text-slate-300 text-center">
                             עד 4 שעות בלבד</p>
-                        <a href=""
-                           class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md w-full">
-                            הזמן עכשיו או קבל פרטים נוספים
-                        </a>
+                        <x-partials.order_btn/>
                     </div>
                     <div class="border-b border-slate-200 dark:border-slate-700"></div>
                     <h3 class="mb-2 mt-4 px-8 text-xl md:text-xl  font-medium dark:text-white">
@@ -241,10 +235,7 @@
 
                         <p class="mb-6 text-slate-430 dark:text-slate-300 text-center">
                             עד 8 שעות בלבד</p>
-                        <a href=""
-                           class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md w-full">
-                            הזמן עכשיו או קבל פרטים נוספים
-                        </a>
+                        <x-partials.order_btn/>
                     </div>
                     <div class="border-b border-slate-200 dark:border-slate-700"></div>
                     <h3 class="mb-2 mt-4 px-8 text-xl md:text-xl  font-medium dark:text-white">

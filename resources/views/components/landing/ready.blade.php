@@ -16,9 +16,9 @@
             </p>
 
             <div class="relative mt-10">
-                <a href=""
+                <a href="tel:{{ config('app.contact_phone') }}"
                    class="btn bg-orange-600 hover:bg-orange-700 border-orange-600 hover:border-orange-700 text-white rounded-md">
-                    התקשרו כבר עכשיו: 0501234567
+                    התקשרו כבר עכשיו: {{ config('app.contact_phone') }}
                 </a>
             </div>
         </div><!--end grid-->

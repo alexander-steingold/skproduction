@@ -4,6 +4,12 @@ namespace App\Http\Controllers;
 
 class SiteController extends Controller
 {
+
+    public function soon()
+    {
+        return "<h1>SITE IS UNDER CONSTRUCTION</h1>";
+    }
+
     public function index()
     {
         return view('landing.index');

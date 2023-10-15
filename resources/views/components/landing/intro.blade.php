@@ -13,11 +13,11 @@
             <h4 class="text-white lg:text-5xl text-4xl lg:leading-normal leading-bold font-medium mb-4 position-relative">
                 ברוכים הבאים
                 <span class="text-[41px]">S&K PRODUCTION</span>
-                - אולפן מסך ירוק
+
             </h4>
 
-            <h2 class="text-white mb-0 max-w-2xl text-2xl mx-auto font-medium">
-                סטודיו לצילום מקצועי במסך ירוק - מסך לבן - מסך שחור בדרום - באר שבע
+            <h2 class="text-white mb-0 text-3xl mx-auto font-medium">
+                אולפן מסך ירוק ובית הפקת וידאו בדרום - באר שבע
             </h2>
 
             <div class="relative mt-10">

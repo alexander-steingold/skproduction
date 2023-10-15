@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ $title }}</title>
-    <meta name="description" content="אולפן מסך ירוק - מסך לבן - מסך שחור בדרום - באר שבע">
+    <meta name="description"
+          content="אולפן מסך ירוק - מסך לבן - מסך שחור אולפן מסך ירוק להשכרה לפי שעה בדרום - באר שבע">
     <meta name="version" content="2.0.0">
     <!-- favicon -->
     <link href="{{ asset('theme/src/assets/images/camera.png') }}" rel="shortcut icon">

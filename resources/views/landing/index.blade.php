@@ -1,4 +1,4 @@
-<x-layout title="אולפן מסך ירוק - מסך לבן - מסך שחור בדרום - באר שבע">
+<x-layout title="אולפן מסך ירוק להשכרה לפי שעה בדרום - באר שבע">
     <x-landing.intro/>
     <x-landing.about/>
     <x-landing.services/>

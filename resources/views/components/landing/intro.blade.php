@@ -12,7 +12,7 @@
         <div class="grid grid-cols-1 text-center">
             <h4 class="text-white lg:text-5xl text-4xl lg:leading-normal leading-bold font-medium mb-4 position-relative">
                 ברוכים הבאים
-                <span class="text-[41px]">S&K PRODUCTION</span>
+                ל<span class="text-[41px]">S&K PRODUCTION</span>
 
             </h4>
 

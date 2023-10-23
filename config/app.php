@@ -125,7 +125,7 @@ return [
     'key' => env('APP_KEY'),
 
     'cipher' => 'AES-256-CBC',
-    'contact_phone' => env('CONTACT_PHONE'),
+    'contact_phone' => '0587757123',
 
     /*
     |--------------------------------------------------------------------------
